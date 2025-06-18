@@ -32,18 +32,31 @@ Tech Stack
 
 ecommerce-site/
 ├── css/
+
 │ └── style.css
+
 ├── js/
+
 ├── includes/
+
 │ └── db.php
+
 ├── products/
+
 │ └── product-images/
+
 ├── index.php
+
 ├── register.php
+
 ├── login.php
+
 ├── logout.php
+
 ├── cart.php
+
 ├── checkout.php
+
 ├── admin.php
+
 ├── ecommerce.sql
-└── README.md
